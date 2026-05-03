@@ -48,7 +48,13 @@ GitHub is actiing as remote repository == then push to remote
 	
 	======================================================================================================================================
 	
-	
+	how to pull other file from remote repository to local repository 
+	as example i have created one file in to my remote repository manuely 
+			
+			===> testing.txt now this is not part of our project or repository 
+			untill git pull command execute to the git bash command propmt
+			
+			git pull "https://github.com/Mamun534/opencart.git"  ==> refresh it will add to the project and repository as well
 	
 	
 	
