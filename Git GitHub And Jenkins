@@ -1,4 +1,7 @@
 
+
+Round 1 one time job :
+
 Git is acting as a local repository == sharing the file from workspace to git repository call commite
 GitHub is actiing as remote repository == then push to remote 
 
@@ -18,10 +21,53 @@ GitHub is actiing as remote repository == then push to remote
 							
 							Command:  
 									1. git init
-									2. git config --gobal user.name "Mamun Chowdhury"
-									3. git config --gobal user.email "pranmamun07@gmail.com"
+									2. git config --global user.name "Mamun Chowdhury"
+									3. git config --global user.email "pranmamun07@gmail.com"
 									4. git status  ==>> it will show all uncommand file
 									5. git add -A  ==>> will add all the folders along with files added to staging
 									6. git add reports ==>> specific file nane == git add -reports , git add -screenShots, git add -logs etc)
 									7. git add *.java
 									8. git add foldername
+									9. git commit -m "commit massage" == git status==>
+									10. Login to github ===> profile ==> click on new ==> create new repository and copy the link and 
+																			we will link with local repository using this link.
+									11. final step to push everything to remote repository 
+									
+										git remote add origin "https://github.com/Mamun534/opencart.git" 
+										this command connect local to remote repository
+										
+									===== >> git push origin master
+									
+	===============================================================================================================================================================================
+	Round 2 :
+				after any changese we just follow the following command-->
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+									
