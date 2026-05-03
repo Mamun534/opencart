@@ -1,0 +1,27 @@
+
+Git is acting as a local repository == sharing the file from workspace to git repository call commite
+GitHub is actiing as remote repository == then push to remote 
+
+
+	Pre-requisites---
+						1. Git Install
+						2. Create an account with github and then we will attach both to communicate each other
+						
+						Git & Githu Workflow:--
+												Working Directory  ==> Staging Area ==> Git Repository
+												
+															Add Command 					Commit command							Push Command	
+												WorkSpace ================>> Tracked File ====================>> Commintted File ==================>> Remote File
+												
+					Steps: 
+							create Local Repository ==> Workspace location ===>> Right click open git bash here ==>> 
+							
+							Command:  
+									1. git init
+									2. git config --gobal user.name "Mamun Chowdhury"
+									3. git config --gobal user.email "pranmamun07@gmail.com"
+									4. git status  ==>> it will show all uncommand file
+									5. git add -A  ==>> will add all the folders along with files added to staging
+									6. git add reports ==>> specific file nane == git add -reports , git add -screenShots, git add -logs etc)
+									7. git add *.java
+									8. git add foldername

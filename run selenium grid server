@@ -1,0 +1,15 @@
+
+
+Go to ==>> C:\Users\pranm ==> cmd ==> java -jar selenium-server-4.43.0.jar standalone    ==>> enter locan grid server will start
+
+then ===> src\test\resources ==>> config.property  ==>> select which one we want to run local/remote 
+
+Running Grid local....
+						# local means it will run as like normal test 
+						# remote means it will run into the grid enviorment 
+
+execution_env = local or remote
+execution_env = remote
+execution_env = local
+
+	

@@ -1,0 +1,48 @@
+Automatic process:
+
+We can run docker by using == >> docker-compose.yaml file 
+
+1. find docker-compose.yaml file location ==> cmd ==>> cd C:\Users\pranm\WorkSpaces\opencart\ ==> past the ( C:\Users\pranm\WorkSpaces\opencart>docker-compose up ) ==>> Enter
+							this command will automaticalycreate everything...
+							
+2. go to grid-docker.xml file ==> update from windows to Linux 
+
+============================================================================================================================================
+Mnuel Process:-
+
+docker ps
+docker run << image name>>
+docker start << container id>>
+docker stop << container id>>
+docker rm <container id>
+
+system commands
+
+docker stats
+docker system df
+docker system prune -f
+
+3 images
+
+1) hub
+2) linux-firefox
+3) linux-chrome
+
+
+Create Docker:-->>  from cmd / powershell after running selenium grid server  ==>> java -jar selenium-server-4.43.0.jar standalone
+
+
+this is for creating docker network ==>>docker network create grid
+
+this is for creating hub =============>> docker run -d -p 4442-4444:4442-4444 -- net grid -- name selenium-hub selenium/hub
+
+this is for creating node 1 chrome == >>
+										 docker run -d -- net grid -e SE_EVENT_BUS_HOST=selenium-hub -e SE_EVENT_BUS_PUBLISH_PORT=4442 -e
+											SE_EVENT_BUS_SUBSCRIBE_PORT=4443 selenium/node-chrome
+this is for creating node 2 firefox == >>
+										docker run -d -- net grid -e SE_EVENT_BUS_HOST=selenium-hub -e SE_EVENT_BUS_PUBLISH_PORT=4442 -e
+											SE_EVENT_BUS_SUBSCRIBE_PORT=4443 selenium/node-firefox
+
+=====================================================================================================================================================
+
+

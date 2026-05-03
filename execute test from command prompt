@@ -1,0 +1,37 @@
+
+
+For executing test case through command prompt we need to install maven on our maschine only then we can execute the test from command prompt.....
+
+
+Download ==> Install ==> Keept it c driver programfiles ==> copy the path till bin folder ==>> C:\Program Files\apache-maven-3.9.15\bin
+configure the path :--
+
+c driver ==>> properties ==> Advanced System Setting ==>> Environment Variables  ==> System Variables ==>> click on path ==>> Edit ==> paste the maven path .
+
+
+		How to execute :-
+						project workspace location ==>> cd C:\Users\pranm\WorkSpaces\opencart
+						Execute test ===>> mvn test ( will execute the test which is we configure in pom file here master.xml will execute 
+						or 
+						mvn clean test 
+						
+						<configuration>
+						<suiteXmlFiles>
+								<suiteXmlfile>master.xml</suiteXmlfile>
+				<!--			<suiteXmlfile>grouping.xml</suiteXmlfile>					-->
+				<!--			<suiteXmlfile>CrossBrowsertesting.xml</suiteXmlfile>		-->
+						</suiteXmlFiles>
+					</configuration>
+						
+						dir ==> will showing all the file are available in the project 
+						now we need to execute pom.xml file through command prompt
+						
+						
+						
+						
+			now go to workspace in our project location then 
+			create an text file and name it run.bat ==>> 
+														cd C:\Users\pranm\WorkSpaces\opencart 
+														mvn clean test 
+														and save it will execute all the test from pom.xml configuration file just double clicl on the bat file thats it 
+			

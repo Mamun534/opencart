@@ -1,0 +1,38 @@
+14:53: 57. 905 [main] INFO  testCases.TC001_AccountRegistationTest - ***Clicked on Register****
+14:53: 57. 913 [main] INFO  testCases.TC001_AccountRegistationTest - ***Providing Customer Details****
+14:54: 01. 531 [main] INFO  testCases.TC001_AccountRegistationTest - ***Validating Expected Massage****
+14:54: 01. 572 [main] INFO  testCases.TC001_AccountRegistationTest - Finished TC001_AccountRegistationTest...
+14:54: 03. 518 [main] INFO  testCases.TC002_LoginTest - ***Starting TC002_LoginTest***
+14:54: 04. 031 [main] INFO  testCases.TC002_LoginTest - ***HomePage Actions Is Done Navigate To LoginPage***
+14:54: 04. 952 [main] INFO  testCases.TC002_LoginTest - ***Loging To My Account Page and Validationg the Heading***
+14:54: 04. 994 [main] INFO  testCases.TC002_LoginTest - ***Finished TC002_LoginTest***
+15:00: 04. 924 [main] INFO  testCases.TC001_AccountRegistationTest - ***Starting TC001_AccountRegistationTest****
+15:00: 05. 292 [main] INFO  testCases.TC001_AccountRegistationTest - ***Clicked on MyAccount****
+15:00: 06. 652 [main] INFO  testCases.TC001_AccountRegistationTest - ***Clicked on Register****
+15:00: 06. 653 [main] INFO  testCases.TC001_AccountRegistationTest - ***Providing Customer Details****
+15:00: 11. 661 [main] INFO  testCases.TC001_AccountRegistationTest - ***Validating Expected Massage****
+15:00: 11. 713 [main] INFO  testCases.TC001_AccountRegistationTest - Finished TC001_AccountRegistationTest...
+15:00: 16. 325 [main] INFO  testCases.TC002_LoginTest - ***Starting TC002_LoginTest***
+15:00: 18. 836 [main] INFO  testCases.TC002_LoginTest - ***HomePage Actions Is Done Navigate To LoginPage***
+15:00: 20. 698 [main] INFO  testCases.TC002_LoginTest - ***Loging To My Account Page and Validationg the Heading***
+15:00: 20. 798 [main] INFO  testCases.TC002_LoginTest - ***Finished TC002_LoginTest***
+15:00: 27. 863 [main] INFO  testCases.TC001_AccountRegistationTest - ***Starting TC001_AccountRegistationTest****
+15:00: 28. 421 [main] INFO  testCases.TC001_AccountRegistationTest - ***Clicked on MyAccount****
+15:00: 30. 675 [main] INFO  testCases.TC001_AccountRegistationTest - ***Clicked on Register****
+15:00: 30. 675 [main] INFO  testCases.TC001_AccountRegistationTest - ***Providing Customer Details****
+15:00: 39. 314 [main] INFO  testCases.TC001_AccountRegistationTest - ***Validating Expected Massage****
+15:00: 39. 397 [main] INFO  testCases.TC001_AccountRegistationTest - Finished TC001_AccountRegistationTest...
+15:00: 43. 823 [main] INFO  testCases.TC002_LoginTest - ***Starting TC002_LoginTest***
+15:00: 45. 449 [main] INFO  testCases.TC002_LoginTest - ***HomePage Actions Is Done Navigate To LoginPage***
+15:00: 47. 125 [main] INFO  testCases.TC002_LoginTest - ***Loging To My Account Page and Validationg the Heading***
+15:00: 47. 204 [main] INFO  testCases.TC002_LoginTest - ***Finished TC002_LoginTest***
+15:32: 16. 428 [main] INFO  testCases.TC001_AccountRegistationTest - ***Starting TC001_AccountRegistationTest****
+15:32: 16. 610 [main] INFO  testCases.TC001_AccountRegistationTest - ***Clicked on MyAccount****
+15:32: 17. 222 [main] INFO  testCases.TC001_AccountRegistationTest - ***Clicked on Register****
+15:32: 17. 223 [main] INFO  testCases.TC001_AccountRegistationTest - ***Providing Customer Details****
+15:32: 20. 717 [main] INFO  testCases.TC001_AccountRegistationTest - ***Validating Expected Massage****
+15:32: 20. 755 [main] INFO  testCases.TC001_AccountRegistationTest - Finished TC001_AccountRegistationTest...
+15:33: 35. 114 [main] INFO  testCases.TC002_LoginTest - ***Starting TC002_LoginTest***
+15:33: 35. 915 [main] INFO  testCases.TC002_LoginTest - ***HomePage Actions Is Done Navigate To LoginPage***
+15:33: 36. 784 [main] INFO  testCases.TC002_LoginTest - ***Loging To My Account Page and Validationg the Heading***
+15:33: 36. 867 [main] INFO  testCases.TC002_LoginTest - ***Finished TC002_LoginTest***
