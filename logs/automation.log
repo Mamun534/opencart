@@ -1,0 +1,6 @@
+17:24: 44. 113 [main] INFO  testCases.TC001_AccountRegistationTest - ***Starting TC001_AccountRegistationTest****
+17:24: 44. 262 [main] INFO  testCases.TC001_AccountRegistationTest - ***Clicked on MyAccount****
+17:24: 45. 361 [main] INFO  testCases.TC001_AccountRegistationTest - ***Clicked on Register****
+17:24: 45. 362 [main] INFO  testCases.TC001_AccountRegistationTest - ***Providing Customer Details****
+17:24: 49. 153 [main] INFO  testCases.TC001_AccountRegistationTest - ***Validating Expected Massage****
+17:24: 49. 192 [main] INFO  testCases.TC001_AccountRegistationTest - Finished TC001_AccountRegistationTest...

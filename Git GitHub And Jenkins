@@ -39,10 +39,14 @@ GitHub is actiing as remote repository == then push to remote
 									===== >> git push origin master
 									
 	===============================================================================================================================================================================
-	Round 2 :
+	Round 2 : afte first round setup this is the only day 2 day basis command
+	
 				after any changese we just follow the following command-->
+				1. git add -A
+				1. git commit -m "updates reports and logs files"
+				3. git push origin master
 	
-	
+	======================================================================================================================================
 	
 	
 	
